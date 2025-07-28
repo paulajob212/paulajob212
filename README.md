@@ -1,20 +1,21 @@
-## Hi there 👋👩‍💻 Paula Andrea Martinez
+## Hi there 👋👩‍💻 Soy Paula Andrea Martinez
 
 Asesora y Consultora en Tecnología | Scrum Master | Psicóloga | Fundadora de Koop Tecnológica y Cencolp
 
+
 🚀 INTERESES PROFESIONALES
 
-Inteligencia Artificial aplicada a datos psicológicos y sociales
+*Inteligencia Artificial aplicada a datos psicológicos y sociales
 
-Psicología de la personalidad y evaluación psicométrica
+*Psicología de la personalidad y evaluación psicométrica
 
-Investigación sobre la Tríada Oscura y su impacto en el comportamiento ciudadano
+*Investigación sobre la Tríada Oscura y su impacto en el comportamiento ciudadano
 
-Desarrollo de ciudades inteligentes y ciudadanía digital (Smart Citizen)
+*Desarrollo de ciudades inteligentes y ciudadanía digital (Smart Citizen)
 
-Aplicación de redes neuronales para modelos predictivos
+*Aplicación de redes neuronales para modelos predictivos
 
-Integración de tecnología y comportamiento humano en entornos urbanos
+*Integración de tecnología y comportamiento humano en entornos urbanos
 
 
 💼 EXPERIENCIA PROFESIONAL
@@ -43,6 +44,7 @@ Técnica en Desarrollo de Aplicaciones Móviles – SENA Cundinamarca (2021)
 Diplomado en Elaboración de Proyectos – Universidad Tecnológica del Pacífico (2005)
 
 
+
 🧠 COMPETENCIAS
 
 Programación en Java y Python
@@ -62,6 +64,7 @@ Adaptabilidad
 Liderazgo y emprendimiento
 
 
+
 🏆 RECONOCIMIENTOS DESTACADOS
 
 Felicitación oficial por práctica profesional en el Batallón, enviada a la Universidad del Valle por el Coronel del Batallon.
@@ -73,6 +76,7 @@ Participación en desarrollo de proyectos “Jóvenes en Acción” – JCI Cali
 Alianzas para la innovación – Colciencias y Cámara de Comercio de Cali
 
 Premio Innovatour – Gobernación del Valle y Secretaría de Turismo (proyecto Turismo Inclusivo)
+
 
 
 💡 OBJETIVO PROFESIONAL
