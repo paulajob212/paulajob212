@@ -67,7 +67,7 @@ Liderazgo y emprendimiento
 
 🏆 RECONOCIMIENTOS DESTACADOS
 
-Felicitación oficial por práctica profesional en el Batallón, enviada a la Universidad del Valle por el Coronel del Batallon.
+Felicitación enviada a mi Universidad por el desempeño de mi práctica profesional Batallón de Policia Nacional, Ejercito de Colombia. 
 
 Reconocimiento por labor colegial en Psicología – Colpsic
 
