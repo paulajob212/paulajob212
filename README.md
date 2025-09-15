@@ -67,7 +67,7 @@ Liderazgo y emprendimiento
 
 🏆 RECONOCIMIENTOS DESTACADOS
 
-Felicitación enviada a mi Universidad por el desempeño de mi práctica profesional Batallón de Policia Nacional, Ejercito de Colombia. 
+Felicitación oficial otorgada por el Batallón de Policía Militar – Ejército de Colombia a la Universidad del Valle, en reconocimiento a mi destacado desempeño durante la práctica profesional en psicología.
 
 Reconocimiento por labor colegial en Psicología – Colpsic
 
