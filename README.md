@@ -84,6 +84,9 @@ Premio Innovatour – Gobernación del Valle y Secretaría de Turismo (proyecto 
 Asesoría y consultoría en el área de tecnología, con experiencia en liderazgo de equipos, desarrollo de software, y aplicación de inteligencia artificial predictiva. 
 Trabajo interdisciplinario integrando psicología, tecnología e innovación urbana con enfoque en ciudades inteligentes y comportamiento ciudadano.
 
+💻 Tecnologías y herramientas
+Java, python, React, Sprint, Mysql, Postgress, kotlin, php, html, entre otros.
+
 <!--
 **paulajob212/paulajob212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
