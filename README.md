@@ -20,10 +20,10 @@ Asesora y Consultora en Tecnología | Scrum Master | Psicóloga | Fundadora de K
 
 💼 EXPERIENCIA PROFESIONAL
 
-FUNDADORA | Koop Tecnológica SAS BIC 2023 Dirección integral de la empresa: coordinación de proyectos, 
+CO-FUNDADORA | Koop Tecnológica SAS BIC 2023 Dirección integral de la empresa: coordinación de proyectos, 
 diseño de productos digitales, atención al cliente y gestión administrativa.
 
-FUNDADORA | Cencolp 2001 - 2024 Planificación, ejecución y promoción de servicios psicológicos y educativos. 
+CO-FUNDADORA | Cencolp 2001 - 2024 Planificación, ejecución y promoción de servicios psicológicos y educativos. 
 Gestión de alianzas, personal y procesos administrativos.
 
 PRACTICANTE EN DESARROLLO DE SOFTWARE | Makaia 2023 Apoyo en el desarrollo y pruebas de aplicaciones web. 
